@@ -1,0 +1,11 @@
+---
+title: "0403"
+format: html
+editor: visual
+---
+
+```{r}
+library(usethis)
+library(devtools)
+usethis::create_package("~/Documents/2023-2026/2024 spring/SDS 270/xkcd")
+```
